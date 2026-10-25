@@ -5,7 +5,7 @@ local PrototypeVersion = "0.1.0"
 
 local Repository = {
     Branch = "main",
-    BaseURL = "https://raw.githubusercontent.com/CNRZero/ROSave/main/Prototype1/Core/Main.lua",
+    BaseURL = "https://raw.githubusercontent.com/CNRZero/ROSave/main/Prototype1/",
 }
 
 local UserConfig = {
