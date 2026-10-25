@@ -1,0 +1,6 @@
+local harness = require("./TestHarness")
+require("./DecompilerTests")(harness)
+require("./ModernDecompilerTests")(harness)
+require("./SerializerTests")(harness)
+require("./ScannerTests")(harness)
+harness.finish()
